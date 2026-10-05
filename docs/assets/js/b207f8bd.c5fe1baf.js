@@ -1,0 +1,696 @@
+"use strict";
+(globalThis["webpackChunkknife_preview"] = globalThis["webpackChunkknife_preview"] || []).push([[11992],{
+
+/***/ 1697:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/3D_1-30316652d2fbb347e13980c0f55b8ac4.jpg");
+
+/***/ }),
+
+/***/ 4360:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/zapojenie-b6ec3e9c5572ae0176b29a24a624b17e.jpeg");
+
+/***/ }),
+
+/***/ 9558:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/jpeg;base64,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");
+
+/***/ }),
+
+/***/ 12342:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tlac3-5183e81368619bb28092962d975fa6f8.jpeg");
+
+/***/ }),
+
+/***/ 12628:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/UC-5bc4210f7b79abf944314962b7c89fb7.png");
+
+/***/ }),
+
+/***/ 16438:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/concept-13522dc8f8da3d6d3302804f3433255a.png");
+
+/***/ }),
+
+/***/ 24412:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tlac1-f29fd3868a2a8ea6a010714819fe96d9.jpeg");
+
+/***/ }),
+
+/***/ 24711:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/AD-38c7728e1d369e53b1fb7ebfa9b0b83d.png");
+
+/***/ }),
+
+/***/ 28453:
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   R: () => (/* binding */ useMDXComponents),
+/* harmony export */   x: () => (/* binding */ MDXProvider)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(96540);
+/**
+ * @import {MDXComponents} from 'mdx/types.js'
+ * @import {Component, ReactElement, ReactNode} from 'react'
+ */
+
+/**
+ * @callback MergeComponents
+ *   Custom merge function.
+ * @param {Readonly<MDXComponents>} currentComponents
+ *   Current components from the context.
+ * @returns {MDXComponents}
+ *   Additional components.
+ *
+ * @typedef Props
+ *   Configuration for `MDXProvider`.
+ * @property {ReactNode | null | undefined} [children]
+ *   Children (optional).
+ * @property {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @property {boolean | null | undefined} [disableParentContext=false]
+ *   Turn off outer component context (default: `false`).
+ */
+
+
+
+/** @type {Readonly<MDXComponents>} */
+const emptyComponents = {}
+
+const MDXContext = react__WEBPACK_IMPORTED_MODULE_0__.createContext(emptyComponents)
+
+/**
+ * Get current components from the MDX Context.
+ *
+ * @param {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @returns {MDXComponents}
+ *   Current components.
+ */
+function useMDXComponents(components) {
+  const contextComponents = react__WEBPACK_IMPORTED_MODULE_0__.useContext(MDXContext)
+
+  // Memoize to avoid unnecessary top-level context changes
+  return react__WEBPACK_IMPORTED_MODULE_0__.useMemo(
+    function () {
+      // Custom merge via a function prop
+      if (typeof components === 'function') {
+        return components(contextComponents)
+      }
+
+      return {...contextComponents, ...components}
+    },
+    [contextComponents, components]
+  )
+}
+
+/**
+ * Provider for MDX context.
+ *
+ * @param {Readonly<Props>} properties
+ *   Properties.
+ * @returns {ReactElement}
+ *   Element.
+ * @satisfies {Component}
+ */
+function MDXProvider(properties) {
+  /** @type {Readonly<MDXComponents>} */
+  let allComponents
+
+  if (properties.disableParentContext) {
+    allComponents =
+      typeof properties.components === 'function'
+        ? properties.components(emptyComponents)
+        : properties.components || emptyComponents
+  } else {
+    allComponents = useMDXComponents(properties.components)
+  }
+
+  return react__WEBPACK_IMPORTED_MODULE_0__.createElement(
+    MDXContext.Provider,
+    {value: allComponents},
+    properties.children
+  )
+}
+
+
+/***/ }),
+
+/***/ 29132:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/jpeg;base64,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");
+
+/***/ }),
+
+/***/ 34125:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/test_fit-d9f288fb2f9b6fa040ec4c2fc4630927.jpeg");
+
+/***/ }),
+
+/***/ 56429:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/inspiration1-5a3e99f2ed49c1ef2193201a2e4e6aea.png");
+
+/***/ }),
+
+/***/ 72748:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/jpeg;base64,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");
+
+/***/ }),
+
+/***/ 76339:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/smvit-845c984c84c0fb9d4ed18ecdfff47d6c.png");
+
+/***/ }),
+
+/***/ 77309:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tlac2-da5c0cc64c4dc406a208851abac67af4.jpeg");
+
+/***/ }),
+
+/***/ 78774:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/inspiration-91931aa356b87fb0108e91f3da900559.png");
+
+/***/ }),
+
+/***/ 79263:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tlac4-af30bb82baa500157a46442a422bf870.jpeg");
+
+/***/ }),
+
+/***/ 80681:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// EXPORTS
+__webpack_require__.d(__webpack_exports__, {
+  assets: () => (/* binding */ assets),
+  contentTitle: () => (/* binding */ contentTitle),
+  "default": () => (/* binding */ MDXContent),
+  frontMatter: () => (/* binding */ frontMatter),
+  metadata: () => (/* reexport */ site_docs_sk_class_sthdf_dashboard_01_class_sthdf_dashboard_2024_2025_projects_prj_007_presentation_slides_md_b20_namespaceObject),
+  toc: () => (/* binding */ toc)
+});
+
+;// ./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-sk-class-sthdf-dashboard-01-class-sthdf-dashboard-2024-2025-projects-prj-007-presentation-slides-md-b20.json
+const site_docs_sk_class_sthdf_dashboard_01_class_sthdf_dashboard_2024_2025_projects_prj_007_presentation_slides_md_b20_namespaceObject = /*#__PURE__*/JSON.parse('{"id":"sk/class_sthdf_dashboard/class_sthdf_dashboard_2024-2025/projects/PRJ007/presentation/slides","title":"slides","description":"{{DESCRIPTION}}","source":"@site/docs/sk/class_sthdf_dashboard/01-class_sthdf_dashboard_2024-2025/projects/PRJ007/presentation/slides.md","sourceDirName":"sk/class_sthdf_dashboard/01-class_sthdf_dashboard_2024-2025/projects/PRJ007/presentation","slug":"/sk/class_sthdf_dashboard/class_sthdf_dashboard_2024-2025/projects/PRJ007/presentation/slides","permalink":"/sk/class_sthdf_dashboard/class_sthdf_dashboard_2024-2025/projects/PRJ007/presentation/slides","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{"fm_version":"1.0.1","fm_build":"2026-10-05T12:53:05.963352+00:00","fm_version_comment":"","guid":"a5daf1f4-035b-49f9-a2d9-7b7f59a59e5d","dao":"class_sthdf_dashboard","title":"slides","description":"{{DESCRIPTION}}","author":"Roman Kazicka","authors":["Roman Kazicka"],"category":"","type":"","priority":"","tags":[],"locale":"sk","created":"2026-10-05 14:53","modified":"2026-10-05 14:53","status":"backlog","privacy":"public","rights_holder_content":"Roman Kazicka","rights_holder_system":"CAA / KNIFE / LetItGrow","license":"CC-BY-NC-SA-4.0","disclaimer":"Use at your own risk. Methods provided as-is; participation is voluntary and context-aware.","copyright":"© 2025 Roman Kazicka","origin_repo":"","origin_repo_url":"","origin_commit":"","origin_branch":"","origin_system":"CAA","origin_author":"Roman Kazicka","origin_imported_from":"","origin_import_date":"","fm_reserved1":"","fm_reserved2":""},"sidebar":"tutorialSidebar","previous":{"title":"PRJ007","permalink":"/sk/class_sthdf_dashboard/class_sthdf_dashboard_2024-2025/projects/PRJ007/"},"next":{"title":"notes","permalink":"/sk/class_sthdf_dashboard/class_sthdf_dashboard_2024-2025/projects/PRJ007/sdlc/business/notes"}}');
+// EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
+var jsx_runtime = __webpack_require__(74848);
+// EXTERNAL MODULE: ./node_modules/@mdx-js/react/lib/index.js
+var lib = __webpack_require__(28453);
+;// ./docs/sk/class_sthdf_dashboard/01-class_sthdf_dashboard_2024-2025/projects/PRJ007/presentation/slides.md
+
+
+const frontMatter = {
+	fm_version: '1.0.1',
+	fm_build: '2026-10-05T12:53:05.963352+00:00',
+	fm_version_comment: '',
+	guid: 'a5daf1f4-035b-49f9-a2d9-7b7f59a59e5d',
+	dao: 'class_sthdf_dashboard',
+	title: 'slides',
+	description: '{{DESCRIPTION}}',
+	author: 'Roman Kazicka',
+	authors: [
+		'Roman Kazicka'
+	],
+	category: '',
+	type: '',
+	priority: '',
+	tags: [],
+	locale: 'sk',
+	created: '2026-10-05 14:53',
+	modified: '2026-10-05 14:53',
+	status: 'backlog',
+	privacy: 'public',
+	rights_holder_content: 'Roman Kazicka',
+	rights_holder_system: 'CAA / KNIFE / LetItGrow',
+	license: 'CC-BY-NC-SA-4.0',
+	disclaimer: 'Use at your own risk. Methods provided as-is; participation is voluntary and context-aware.',
+	copyright: '© 2025 Roman Kazicka',
+	origin_repo: '',
+	origin_repo_url: '',
+	origin_commit: '',
+	origin_branch: '',
+	origin_system: 'CAA',
+	origin_author: 'Roman Kazicka',
+	origin_imported_from: '',
+	origin_import_date: '',
+	fm_reserved1: '',
+	fm_reserved2: ''
+};
+const contentTitle = 'PRJ007 — Presentation';
+
+const assets = {
+
+};
+
+
+
+const toc = [{
+  "value": "Meeting Mate",
+  "id": "meeting-mate",
+  "level": 2
+}, {
+  "value": "Zadanie projektu",
+  "id": "zadanie-projektu",
+  "level": 2
+}, {
+  "value": "Motivácia",
+  "id": "motivácia",
+  "level": 2
+}, {
+  "value": "Biznis koncept",
+  "id": "biznis-koncept",
+  "level": 2
+}, {
+  "value": "Prípady použitia",
+  "id": "prípady-použitia",
+  "level": 3
+}, {
+  "value": "Návrh",
+  "id": "návrh",
+  "level": 2
+}, {
+  "value": "Inšpirácia",
+  "id": "inšpirácia",
+  "level": 3
+}, {
+  "value": "3D Model",
+  "id": "3d-model",
+  "level": 3
+}, {
+  "value": "Aktivity diagram",
+  "id": "aktivity-diagram",
+  "level": 3
+}, {
+  "value": "Tlač modelu",
+  "id": "tlač-modelu",
+  "level": 3
+}, {
+  "value": "Schéma prepojenie a výber komponentov",
+  "id": "schéma-prepojenie-a-výber-komponentov",
+  "level": 3
+}, {
+  "value": "Zapojenie kompomentov",
+  "id": "zapojenie-kompomentov",
+  "level": 3
+}, {
+  "value": "Test FIT",
+  "id": "test-fit",
+  "level": 3
+}, {
+  "value": "Kód",
+  "id": "kód",
+  "level": 3
+}, {
+  "value": "Finálny produkt",
+  "id": "finálny-produkt",
+  "level": 3
+}, {
+  "value": "Zhodnotenie",
+  "id": "zhodnotenie",
+  "level": 2
+}, {
+  "value": "LinkedIn link - https://www.linkedin.com/company/105199254/",
+  "id": "linkedin-link---httpswwwlinkedincomcompany105199254",
+  "level": 4
+}, {
+  "value": "Youtube link - https://www.youtube.com/@meeting-mate",
+  "id": "youtube-link---httpswwwyoutubecommeeting-mate",
+  "level": 4
+}];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    h3: "h3",
+    h4: "h4",
+    header: "header",
+    img: "img",
+    p: "p",
+    ...(0,lib/* useMDXComponents */.R)(),
+    ...props.components
+  };
+  return (0,jsx_runtime.jsxs)(jsx_runtime.Fragment, {
+    children: [(0,jsx_runtime.jsxs)(_components.p, {
+      children: [(0,jsx_runtime.jsx)(_components.a, {
+        href: "/",
+        children: "🏠 Domov"
+      }), " · ", (0,jsx_runtime.jsx)(_components.a, {
+        href: "../",
+        children: "⬅️ Nahor"
+      })]
+    }), "\n", (0,jsx_runtime.jsx)(_components.header, {
+      children: (0,jsx_runtime.jsx)(_components.h1, {
+        id: "prj007--presentation",
+        children: "PRJ007 — Presentation"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "meeting-mate",
+      children: "Meeting Mate"
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "zadanie-projektu",
+      children: "Zadanie projektu"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Tento projekt sa zameriava na vývoj zariadenia, ktoré slúži na indikáciu stavu dostupnosti počas pracovných online stretnutí. Navrhované zariadenie bude monitorovať aktivitu používateľa a farebným osvetlením zobrazí jeho dostupnosť. Ak je používateľ na pracovnom hovore, zariadenie rozsvieti červené svetlo, čo signalizuje, že by nemal byť rušený. Naopak, ak nie je na hovore, rozsvieti sa zelené svetlo, čo dáva ostatným najavo, že ho môžu osloviť. Tento jednoduchý vizuálny systém umožní členom domácnosti rýchlo a jasne rozlíšiť, kedy je vhodné osobu osloviť a kedy nie."
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "motivácia",
+      children: "Motivácia"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "V dnešnej dobe, keď mnoho ľudí pracuje z domu, často dochádza k situáciám, kedy ostatní členovia domácnosti nevedia, či je osoba na dôležitom hovore alebo ju môžu ju vyrušiť. To môže viesť k nechceným prerušením, ktoré negatívne ovplyvňujú produktivitu a taktiež to je nepríjemné počas dôležitých pracovných stretnutí."
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "biznis-koncept",
+      children: "Biznis koncept"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Práca z domu prináša množstvo výhod, najmä v oblasti správy času. Jednou z výziev však býva potreba pravidelnej komunikácie s kolegami, ktorá často prebieha prostredníctvom online meetingov. Tieto stretnutia si vyžadujú plnú pozornosť a sústredenosť, aj keď nie vždy je nevyhnutné aktívne sa zapojiť do diskusie. Aj keď práve nehovoríte, očakáva sa od vás, že budete plne sústredení, pričom akékoľvek vyrušenia sú nežiaduce."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Nie každý má možnosť pracovať v samostatnej kancelárii. Ak však takýto priestor doma máte, môže nastať problém s jasnou signalizáciou toho, či ste momentálne na pracovnom stretnutí. Často sa stáva, že kolega zavolá nečakane, alebo si jednoducho zabudnete vyvesiť ceduľku „nerušiť“. Tradičné metódy, ako zatvorenie dverí či manuálne vyznačenie nerušenia, nemusia byť vždy praktické a spoľahlivé."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Preto má zmysel vyvinúť zariadenie, ktoré by automaticky monitorovalo vašu aktivitu a dokázalo vizuálne signalizovať váš stav, napríklad pripojenie na online meeting. Takéto riešenie by bolo obzvlášť užitočné v domácom prostredí, no má potenciál aj pre širšie uplatnenie v kanceláriách"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Nasledujúci obrázok popisuje biznis koncept a motiváciu za vyvojom tohto zariadenia."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "Biznis koncept",
+        src: (__webpack_require__(16438)/* ["default"] */ .A) + "",
+        width: "400",
+        height: "477"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "prípady-použitia",
+      children: "Prípady použitia"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Zariadenie má 2 primárne využitia. Pre pracovníka Home Office poskytuje možnosť reportovania dostupnosti ostatným v domácnosti. Pre člena domácnosti je na druhú stranu výhodou možnsť zistenia dostupnosti tohto člena domácnosti alebo v pracovnom právnom koncepte - pracovníka. Prípadne ako bolo spomínané sa dá tento prípad použitia replikovať aj v kancelárii."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "UC",
+        src: (__webpack_require__(12628)/* ["default"] */ .A) + "",
+        width: "562",
+        height: "410"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "návrh",
+      children: "Návrh"
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "inšpirácia",
+      children: "Inšpirácia"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Inšpirácie boli generované pomocou DALL-E modelu a po opísaní zadania a konceptu tohto zariadenia. Pri inšpirácii pre tvar zariadenia boli generované viaceré obrázky avšak tieto 2 ma najviac zaujali a následne aj inšpirovali k vytvoreniu 3D modelu."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "Inspiracia",
+        src: (__webpack_require__(78774)/* ["default"] */ .A) + "",
+        width: "400",
+        height: "400"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "Inspiracia ",
+        src: (__webpack_require__(56429)/* ["default"] */ .A) + "",
+        width: "400",
+        height: "400"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "3d-model",
+      children: "3D Model"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Model zariadenia bol navrhnutý po inpirácii z generovaných obrázkov na základe biznis konceptu. Rozmety boli prispôsobené pre zhodné uloženie kompomentov a to mikrokontroléra Raspberry Pi Pico a RGB LED kruhu s dvanástimi adresovateľnými diódami."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "3D Model 1",
+        src: (__webpack_require__(1697)/* ["default"] */ .A) + "",
+        width: "400",
+        height: "301"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "3D Model 2",
+        src: (__webpack_require__(9558)/* ["default"] */ .A) + "",
+        width: "400",
+        height: "224"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "aktivity-diagram",
+      children: "Aktivity diagram"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: ["Navrhovaný aktivity diagram znázorňujúci fungovanie a jednotlivé kroky v procese. Člen domácnosti, ktorý pracuje ako Home Office pracovník si zapojí navrhované zariadenie k počítaču, následne spustí softvér dostupný k tomu zariadeniu, ktorý poskytuje monitorovanie používania mikrofónu. Po spustení tohto softvéru sa začne monitorovanie používania mikrofónu. Ak nastane zmena pri používaní mikrofónu je reflektovaná zmenou farby zariadenia. Presnejšie ak sa mikrofón nepoužíva, zariadenie svieti na zeleno, v prípade aktívneho používania mikrofónu zariadenie zmení farbu na červeno. Pri tomto diagrame je podstatné podotknúť, že počítač vyhodnocuje používanie mikrofónu akonáhle je používateľ účastníkom online hovoru bez ohľadu na stav jeho mikrofónu. Teda bez ohľadu na to, či je používateľov mikrofón zapnutý alebo vypnutý. Vďaka tomuto dizajnu online meetingov je možné používať zobrazený diagram na reportovanie, či je používateľ účastníkom konferenčného hovoru alebo nie.\n", (0,jsx_runtime.jsx)(_components.img, {
+        alt: "AD",
+        src: (__webpack_require__(24711)/* ["default"] */ .A) + "",
+        width: "514",
+        height: "761"
+      })]
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "tlač-modelu",
+      children: "Tlač modelu"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Po vymodelovaní v programe SketchUp, bol model vytlačený. Tlač bola opakované pre lepšie prispôsobenie jednotlivých kompomentov v modeli."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "tlac1",
+        src: (__webpack_require__(24412)/* ["default"] */ .A) + "",
+        width: "400",
+        height: "533"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "tlac2",
+        src: (__webpack_require__(77309)/* ["default"] */ .A) + "",
+        width: "400",
+        height: "533"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "tlac3",
+        src: (__webpack_require__(12342)/* ["default"] */ .A) + "",
+        width: "400",
+        height: "300"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Výsledný model, pripravený pre uloženie kompomentov."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "tlac4",
+        src: (__webpack_require__(79263)/* ["default"] */ .A) + "",
+        width: "188",
+        height: "250"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "schéma-prepojenie-a-výber-komponentov",
+      children: "Schéma prepojenie a výber komponentov"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Pre tento projekt boli zvolené nasledujúce kompomenty:"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: ["Mikrokontróler RASPBERRY Pi Pico - ", (0,jsx_runtime.jsx)(_components.a, {
+        href: "https://www.alza.sk/raspberry-pi-pico-d6313108.htm?o=1",
+        children: "https://www.alza.sk/raspberry-pi-pico-d6313108.htm?o=1"
+      })]
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: ["Kruh RGB LED-iek 12 - ", (0,jsx_runtime.jsx)(_components.a, {
+        href: "https://techfun.sk/produkt/kruh-rgb-led-iek-81224-3240/?gad_source=1&attribute_pa_pocet-led-v-kruhu=12",
+        children: "https://techfun.sk/produkt/kruh-rgb-led-iek-81224-3240/?gad_source=1&attribute_pa_pocet-led-v-kruhu=12"
+      })]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Komponenty boli zvolené pre ich dostupnosť, rozmery, ktoré boli vhodné pre tento projekt a taktiež pre ich dostačujúce technické parametre pre tejto projekt."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Schéma zapojenia kompomentov bola vypracovaná v programe fritzing, ktorý poskytuje aj vizualizáciu jednotlivých kompomentov. Komponenty však bolo potrebné do programu importovať samostatne, kedže neboli natívne dostupné."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "schema",
+        src: (__webpack_require__(76339)/* ["default"] */ .A) + "",
+        width: "250",
+        height: "244"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "zapojenie-kompomentov",
+      children: "Zapojenie kompomentov"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Podľa navrhnutej schémy boli zapojené jednotlivé kompomenty. Pri narábaní s mikrokontrolérmi je možné používať aj nepájivé kontaktné pole, kde jednoduchšie môže vývojár testovať jednotlivé idei. Pre estetiku 3D modelu a veľkosť zariadenia bola preto zvolená metóda priameho letovania kontektorov na mikrokontrolér."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "zapojenie",
+        src: (__webpack_require__(4360)/* ["default"] */ .A) + "",
+        width: "188",
+        height: "250"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "test-fit",
+      children: "Test FIT"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Testovanie uloženia komponentov do vytlačeného modelu."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "test fit",
+        src: (__webpack_require__(34125)/* ["default"] */ .A) + "",
+        width: "188",
+        height: "250"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "kód",
+      children: "Kód"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Zdrojový kód s komentármi sa nachádza v priečinku code. Pre správne fungovanie je potrebné spustiť kód a následne zapnúť monitorovanie."
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "finálny-produkt",
+      children: "Finálny produkt"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Finálnym produktom je zariadenie ktoré pozostáva z 3D vytlačeného modelu, LED kruhu a mikrokontrolera. Pre fungovanie zariadenia je potrebná aj aplikácia, ktorá vykonáva meranie vyúžívania mikrofónu."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Aplikácia po spustení pozostáva z 2 tlačidiel a indikátora, či je monitorovanie spustené alebo nie."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "final",
+        src: (__webpack_require__(86843)/* ["default"] */ .A) + "",
+        width: "188",
+        height: "250"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Po spustení monitorovania sa zapne LED kruh na farbu podľa toho či je miktofón používaný alebo nie. V prípade, že používateľ nie je na online hovore, zariadenie svieti na zeleno a v prípade, že je pripojený na online meeting tak sa svetlo zmení na červené."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Aplikácia na monitorovanie je spustená ale používateľ nie je pripojený na žiadnom meetingu."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "red",
+        src: (__webpack_require__(29132)/* ["default"] */ .A) + "",
+        width: "188",
+        height: "250"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Aplikácia na monitorovanie je spustená a používateľ je pripojený na Microsoft team meetingu. Zariadenie funguje rovnako so všetkými aplikáciami skrz to, že monitoruje používanie mikrofónu a nie používanie rôznych aplikácii."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "red",
+        src: (__webpack_require__(72748)/* ["default"] */ .A) + "",
+        width: "188",
+        height: "250"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "zhodnotenie",
+      children: "Zhodnotenie"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Výsledkom tohto projektu je funkčné zariadenie, ktoré po spustení softvéru reflektuje stav používateľa na online meetingu. Praktické využitie tohto zariadenie môže byť na pracovnom stole pri dobrej viditeľnosti ostatných členov domácnosti."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Počas práce na tomto projekte bolo vytvorených viacero iterácii či už 3D modelu, pre lepšie uloženie komponentov. Rovnako bolo vytvorených viacero verzií softvéru pre docielenie korektného monitorovania používania mikrofónu."
+    }), "\n", (0,jsx_runtime.jsxs)(_components.h4, {
+      id: "linkedin-link---httpswwwlinkedincomcompany105199254",
+      children: ["LinkedIn link - ", (0,jsx_runtime.jsx)(_components.a, {
+        href: "https://www.linkedin.com/company/105199254/",
+        children: "https://www.linkedin.com/company/105199254/"
+      })]
+    }), "\n", (0,jsx_runtime.jsxs)(_components.h4, {
+      id: "youtube-link---httpswwwyoutubecommeeting-mate",
+      children: ["Youtube link - ", (0,jsx_runtime.jsx)(_components.a, {
+        href: "https://www.youtube.com/@meeting-mate",
+        children: "https://www.youtube.com/@meeting-mate"
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,lib/* useMDXComponents */.R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,jsx_runtime.jsx)(MDXLayout, {
+    ...props,
+    children: (0,jsx_runtime.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+
+
+/***/ }),
+
+/***/ 86843:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/final-cc60fe71899768b6bf0878406d60feb8.jpeg");
+
+/***/ })
+
+}]);
